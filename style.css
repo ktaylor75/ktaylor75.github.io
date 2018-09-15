@@ -1,0 +1,19 @@
+h1{
+	color: pink;
+	text-align: center;
+}
+h2{
+	color: indigo;
+	text-align: center;
+}
+h3{
+	color: violet;
+	margin: 20px;
+}
+#food{
+	color: red;
+}
+div{
+	border: solid;
+}
+
